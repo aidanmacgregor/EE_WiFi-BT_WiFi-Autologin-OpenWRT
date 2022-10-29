@@ -10,6 +10,11 @@
  # ![2528830](https://user-images.githubusercontent.com/11254983/164993973-1b534096-84a8-4785-bf39-ea177eea4274.png) OpenWrt Autologin Service, LED & Theme<br/>
 Set Up OpenWrt With BTWi-fi & The Autologin Service, THEME & LED Service Also Availible
 
+# Features:
+
+ - No Treminal Commands (GUI Based)
+ - Automatically Detect internet & OpenWRT Version to install libustream-mbedtls if needed
+
 ## Install The tar.gz Files Using LUCI (System > Backup / Flash Firmware)
 	
 ![Install](https://user-images.githubusercontent.com/11254983/173888569-542fbbdd-c7c9-41cf-8411-1eceed69610c.JPG)	
