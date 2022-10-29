@@ -1,3 +1,12 @@
+ # This Is Part Of The BT Wi-Fi Autologin Services Also Availible For
+
+ - Windows
+ - Linux
+ - Android (& Chromebook)
+ 
+ ### Availible Here:
+ https://github.com/aidanmacgregor/BT_Wi-fi_Autologin_-_OpenWrt_Windows.EXE_Linux_Android-Macrodroid
+ 
  # ![2528830](https://user-images.githubusercontent.com/11254983/164993973-1b534096-84a8-4785-bf39-ea177eea4274.png) OpenWrt Autologin Service, LED & Theme<br/>
 Set Up OpenWrt With BTWi-fi & The Autologin Service, THEME & LED Service Also Availible
 
