@@ -10,9 +10,6 @@
  # ![2528830](https://user-images.githubusercontent.com/11254983/164993973-1b534096-84a8-4785-bf39-ea177eea4274.png) OpenWrt Autologin Service, LED & Theme<br/>
 Set Up OpenWrt With BTWi-fi & The Autologin Service, THEME & LED Service Also Availible
 
-<details>
-  <summary>Click to expand!</summary>
-
 ## Install The tar.gz Files Using LUCI (System > Backup / Flash Firmware)
 	
 ![Install](https://user-images.githubusercontent.com/11254983/173888569-542fbbdd-c7c9-41cf-8411-1eceed69610c.JPG)	
@@ -32,5 +29,3 @@ Set Up OpenWrt With BTWi-fi & The Autologin Service, THEME & LED Service Also Av
 [LED Service](https://github.com/aidanmacgregor/BT_Wi-fi_Autologin_-_OpenWrt_Windows.EXE_Linux_Android-Macrodroid/tree/main/OpenWrt%20Theme%20%26%20LED%20Service/OpenWrt%20LED%20Service)
     
 [Themes](https://github.com/aidanmacgregor/BT_Wi-fi_Autologin_-_OpenWrt_Windows.EXE_Linux_Android-Macrodroid/tree/main/OpenWrt%20Theme%20%26%20LED%20Service/OpenWrt%20Theme)
-    
-  </details>
