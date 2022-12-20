@@ -23,6 +23,7 @@ The script also includes several optional variables, such as the LOGSIZE, PING1,
  - Automatically Detect internet & OpenWRT Version to install libustream-mbedtls if needed
  - Logging
  - Log Size Limt
+ - Theme & LED Service also availible
 
 ## Install The tar.gz Files Using LUCI (System > Backup / Flash Firmware)
 	
