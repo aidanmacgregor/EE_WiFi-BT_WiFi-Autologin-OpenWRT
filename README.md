@@ -24,6 +24,13 @@ The script also includes several optional variables, such as the LOGSIZE, PING1,
  - Logging
  - Log Size Limt
  - Theme & LED Service also availible
+ - (v5) Fixed bug where TLS loop wouldn't exit if detected sucsesully
+ - (v5) New openwrt version detection meethod
+ - (v5) New method to detect if TLS/SSL is installed
+ - (v5) Check for TLS/SSL before running login attempts
+ - (v5) Added no check certificate to wget
+ - (v5) Added check for logfile before trying to truncate
+ - (v5) Cleaned up spacing in code
 
 ## Install The tar.gz Files Using LUCI (System > Backup / Flash Firmware)
 	
