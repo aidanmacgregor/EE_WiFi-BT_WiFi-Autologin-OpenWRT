@@ -31,6 +31,9 @@ The script also includes several optional variables, such as the LOGSIZE, PING1,
  - (v5) Added no check certificate to wget
  - (v5) Added check for logfile before trying to truncate
  - (v5) Cleaned up spacing in code
+ - (v6) Change filename to lovercase as per linux standard and remove v5 from filename
+ - (v6) Reupload as missed tar.gz upload before
+ - (v6) Include some EE rebranding
 
 ## Install The tar.gz Files Using LUCI (System > Backup / Flash Firmware)
 	
