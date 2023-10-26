@@ -4,7 +4,7 @@
  - Linux
  - Android (& Chromebook)
  
- ### Available Here:
+ ### More information available here:
  https://github.com/aidanmacgregor/BTWi-Fi_Autologin_-_OpenWrt_Linux_ChromeOS_Android_Macrodroid_Windows.EXE
  
  # ![2528830](https://user-images.githubusercontent.com/11254983/164993973-1b534096-84a8-4785-bf39-ea177eea4274.png) OpenWrt Autologin Service, LED & Theme<br/>
