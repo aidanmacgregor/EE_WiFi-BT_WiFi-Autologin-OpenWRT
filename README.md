@@ -35,6 +35,9 @@ The script also includes several optional variables, such as the LOGSIZE, PING1,
  - (v6) Reupload as missed tar.gz upload before
  - (v6) Include some EE rebranding
 
+## My Network Topology :
+![My Network NEW](https://github.com/aidanmacgregor/EE_WiFi-BT_WiFi-Autologin-OpenWRT/assets/11254983/551c83ee-e194-4d20-9a05-c6f087220856)
+
 ## Install The tar.gz Files Using LUCI (System > Backup / Flash Firmware)
 	
 ![Install](https://user-images.githubusercontent.com/11254983/173888569-542fbbdd-c7c9-41cf-8411-1eceed69610c.JPG)	
