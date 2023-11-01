@@ -36,7 +36,7 @@ The script also includes several optional variables, such as the LOGSIZE, PING1,
  - (v6) Include some EE rebranding
 
 ## My Network Topology :
-![My Network NEW 2](https://github.com/aidanmacgregor/EE_WiFi-BT_WiFi-Autologin-OpenWRT/assets/11254983/3335f643-80d1-413d-a74a-528611651324)
+![My Network NEW 2](https://github.com/aidanmacgregor/EE_WiFi-BT_WiFi-Autologin-OpenWRT/assets/11254983/b2fb11ba-3f61-489f-986c-42399d39d048)
 
 ## Install The tar.gz Files Using LUCI (System > Backup / Flash Firmware)
 	
