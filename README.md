@@ -1,4 +1,4 @@
- # This Is Part Of The BT Wi-Fi Autologin Services Also Available For
+ # This Is Part Of The EE WiFi (BT Wi-Fi) Autologin Services& Is Also For
 
  - Windows
  - Linux
@@ -36,7 +36,7 @@ The script also includes several optional variables, such as the LOGSIZE, PING1,
  - (v6) Include some EE rebranding
 
 ## My Network Topology :
-![My Network NEW 2](https://github.com/aidanmacgregor/EE_WiFi-BT_WiFi-Autologin-OpenWRT/assets/11254983/b2fb11ba-3f61-489f-986c-42399d39d048)
+![My Network NEW 2](https://github.com/aidanmacgregor/EE_WiFi-BT_WiFi-Autologin-OpenWRT/assets/11254983/2b0c034c-cf12-4091-991e-9cdfc08c9afb)
 
 ## Install The tar.gz Files Using LUCI (System > Backup / Flash Firmware)
 	
