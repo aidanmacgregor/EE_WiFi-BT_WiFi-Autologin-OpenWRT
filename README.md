@@ -1,4 +1,4 @@
- # This Is Part Of The EE WiFi (BT Wi-Fi) Autologin Services& Is Also For
+ # This Is Part Of The EE WiFi (BT Wi-Fi) Autologin Services & Is Also For
 
  - Windows
  - Linux
