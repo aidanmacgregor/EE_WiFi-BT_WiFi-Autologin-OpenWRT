@@ -39,16 +39,52 @@ The script also includes several optional variables, such as the LOGSIZE, PING1,
 ![My Network NEW 2](https://github.com/aidanmacgregor/EE_WiFi-BT_WiFi-Autologin-OpenWRT/assets/11254983/2b0c034c-cf12-4091-991e-9cdfc08c9afb)
 
 ## Install The tar.gz Files Using LUCI (System > Backup / Flash Firmware)
-	
+<details>
+<summary>Click to expand!</summary><br/>
+
 ![Install](https://user-images.githubusercontent.com/11254983/173888569-542fbbdd-c7c9-41cf-8411-1eceed69610c.JPG)	
 
+</details><br/>
+
 ## Autologin Service (System > Startup)
-	
+<details>
+<summary>Click to expand!</summary><br/>
+
 ![Startup (3)](https://user-images.githubusercontent.com/11254983/173452552-d591d1c8-edd6-460b-b9bf-39509da5fda1.JPG)
 
+</details><br/>
+
 ## Add Your Account (System > Startup > Local Startup)
-	
+<details>
+<summary>Click to expand!</summary><br/>
+
 ![Local Startup (3)](https://user-images.githubusercontent.com/11254983/173452553-e6a26dde-2d85-478a-9c94-22dde81a19fc.JPG)
+
+</details><br/>
+
+## ![48 Yellow Info](https://user-images.githubusercontent.com/11254983/164985697-861a5a64-e88a-4279-a317-13859676e50e.png) Remove Forced Safesearch & Content Filtering (DNS)
+<details>
+  <summary>Click to expand!</summary><br/>
+
+## Im Using Google DNS on the internal network To Remove Forced Google Safe Search
+
+- Interface > br-lan (Edit) > DHCP Server > Advanced Settings<br/>
+- Change The Setting "DHCP-Options" to
+```
+6,8.8.8.8,8.8.4.4
+```
+- Interface > wwan (Edit) > Advanced Settings
+- Use DNS servers advertised by peer
+```
+(uncheck)
+```
+- Use custom DNS servers 
+```
+8.8.8.8
+8.8.4.4
+```
+
+</details><br/>
 
 ## OpenWrt Downloads
     
