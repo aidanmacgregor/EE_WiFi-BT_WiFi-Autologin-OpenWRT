@@ -62,27 +62,33 @@ The script also includes several optional variables, such as the LOGSIZE, PING1,
 
 </details><br/>
 
-## ![48 Yellow Info](https://user-images.githubusercontent.com/11254983/164985697-861a5a64-e88a-4279-a317-13859676e50e.png) Remove Forced Safesearch & Content Filtering (DNS)
+# ![48 Yellow Info](https://user-images.githubusercontent.com/11254983/164985697-861a5a64-e88a-4279-a317-13859676e50e.png) Remove Forced Safesearch & Content Filtering (DNS)
 <details>
   <summary>Click to expand!</summary><br/>
 
-## Im Using Google DNS on the internal network To Remove Forced Google Safe Search
-
-- Interface > br-lan (Edit) > DHCP Server > Advanced Settings<br/>
+## Interface > br-lan (Edit) > DHCP Server > Advanced Settings<br/>
 - Change The Setting "DHCP-Options" to
 ```
 6,8.8.8.8,8.8.4.4
 ```
-- Interface > wwan (Edit) > Advanced Settings
+
+![LAN DHCP OPTIONS](https://github.com/user-attachments/assets/616c77bf-9cf9-45ed-9fe3-b6cc821f9fff)
+
+## Interface > wwan (Edit) > Advanced Settings
 - Use DNS servers advertised by peer
 ```
 (uncheck)
 ```
+
 - Use custom DNS servers 
 ```
 8.8.8.8
+```
+```
 8.8.4.4
 ```
+
+![WWAN DNS SETTINGS](https://github.com/user-attachments/assets/a58577a6-2ea3-41cd-bd0f-daa7b4e0304a)
 
 </details><br/>
 
