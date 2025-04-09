@@ -1,5 +1,7 @@
 #!/bin/sh /etc/rc.common
-
+# moved Here T Fox OpenWrt v24
+START=99
+STOP=1
 #######--  BT Wi-Fi Autologin Service Openwrt v6 --########
 #######-    By: Aidan Macgregor (October 2023)  -########
 
@@ -39,8 +41,6 @@ LOGPATH=$(grep '#LOGPATH=' /etc/rc.local | sed -r 's/^.{9}//')
 #####---- DO NOT EDIT BELOW HERE ----#####
 ##########################################
 
-START=99
-STOP=1
 PIDFILELOGIN=/var/run/BT_Wi-fi_Autologin.pid
 PIDFILECUTLOG=/var/run/BT_Wi-fi_Logfile.pid
 PIDFILETLS=/var/run/TLS_Installer.pid
