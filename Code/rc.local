@@ -10,6 +10,11 @@
 #USERNAME=
 #PASSWORD=
 
+####### Settings for EE Wifi API endpoint address resolution
+# This can be blank, if it is, we'll use the address obtained from DNS
+#ENDPOINT=""
+#DNSSERVER=8.8.8.8
+
 ####### Optional Settings (Or Leave As Defaults)
 #LOGSIZE=40
 #PING1=1.1.1.1
